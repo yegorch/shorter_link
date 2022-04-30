@@ -1,0 +1,3 @@
+project=shorter_link
+test=rspec
+template=erb
